@@ -1,4 +1,4 @@
-# Amazon Headphones Data Scraper
+# Amazon Headphones Web Scraping
 
 📌 **Project Overview**  
 This project is a web scraping application designed to extract headphone product details from Amazon. It scrapes data such as product title, price, reviews, number of reviews, and product image links, then saves the data in a CSV file for further analysis.
