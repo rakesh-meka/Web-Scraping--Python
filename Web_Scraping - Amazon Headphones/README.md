@@ -3,7 +3,7 @@
 📌 **Project Overview**  
 This project is a web scraping application designed to extract headphone product details from Amazon. It scrapes data such as product title, price, reviews, number of reviews, and product image links, then saves the data in a CSV file for further analysis.
 
-https://github.com/rakesh-meka/Python_Web_Scraping/blob/main/Python-Web-Scraping.jpg?raw=true
+![Web Scrapping](https://github.com/rakesh-meka/Python_Web_Scraping/blob/main/Python-Web-Scraping.jpg?raw=true)
 
 🎯 **Objectives**  
 - **Automate Data Collection** – Efficiently scrape headphone details from Amazon.
