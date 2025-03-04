@@ -1,4 +1,4 @@
-# 🚲 BikeWale Bikes_info
+#  BikeWale 
 
 ## 📌 Project Overview  
 This **web scraping project** is designed to extract **real-time data** of newly launched bikes from **BikeWale website**. It collects essential information such as:
